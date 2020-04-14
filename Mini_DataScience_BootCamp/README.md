@@ -24,5 +24,5 @@ Part 1 with Sumana Ravikrishnan - https://www.youtube.com/watch?v=pGL53uhfqwE&t
 
 Part 2 with Anju Mercian - https://www.youtube.com/watch?v=lkuenu4hjgA&t
 
-Part 3 with Sumana Ravikrishnan- https://www.youtube.com/watch?v=zkyflq1dEXA&t
+Part 3 with Sumana Ravikrishnan - https://www.youtube.com/watch?v=zkyflq1dEXA&t
 

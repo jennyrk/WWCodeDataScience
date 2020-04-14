@@ -14,6 +14,9 @@ In **Cleaning, Statistics & Visualizing Data**, we will understand the main conc
 
 In **Creating & Comparing ML Models**, we will learn the steps to build machine learning models and measures to evaluate performance of a model.
 
+## How To Use
+You can import these notebooks directly in Google Colab using the steps listed in https://medium.com/@steve7an/how-to-test-jupyter-notebook-from-github-via-google-colab-7dc4b9b11a19.
+
 ## Recordings
 This content has been run as webinar series', you can find the recordings for each series at the location below.
 ### March 27, April 3rd, April 10th:

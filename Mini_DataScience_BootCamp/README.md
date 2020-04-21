@@ -20,6 +20,8 @@ You can import these notebooks directly in Google Colab using the steps listed i
 ## Recordings
 This content has been run as webinar series', you can find the recordings for each series at the location below.
 ### March 27, April 3rd, April 10th:
+How to Link Google Drive & Google Colab - https://www.youtube.com/watch?v=mNTqIw-Oy44
+
 Part 1 with Sumana Ravikrishnan - https://www.youtube.com/watch?v=pGL53uhfqwE&t
 
 Part 2 with Anju Mercian - https://www.youtube.com/watch?v=lkuenu4hjgA&t

@@ -18,10 +18,15 @@ In **Creating & Comparing ML Models**, we will learn the steps to build machine 
 You can import these notebooks directly in Google Colab using the steps listed in https://medium.com/@steve7an/how-to-test-jupyter-notebook-from-github-via-google-colab-7dc4b9b11a19.
 
 ## Free Coursework suggested by our Leaders
+
 Inferential Statistics - https://www.udacity.com/course/intro-to-inferential-statistics--ud201
+
 Descriptive Statistics - https://www.udacity.com/course/intro-to-descriptive-statistics--ud827
+
 Data Analysis - https://www.udacity.com/course/intro-to-data-analysis--ud170
+
 Machine Learning - https://www.coursera.org/learn/machine-learning
+
 Pluralsight (free April month) - https://www.pluralsight.com/offer/2020/free-april-month
 
 

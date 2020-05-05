@@ -44,4 +44,8 @@ Part 3 with Sumana Ravikrishnan - https://www.youtube.com/watch?v=zkyflq1dEXA&t
 ### April 17th, April 24th, May 1st:
 How to Link Google Colab & Github - https://www.youtube.com/watch?v=gQP_hO7dbJ4
 
-Part 1 with Yashika Sharma - https://zoom.us/rec/share/ppZIDbSr1kVOZY3881PtYpEEHdWmX6a8gyZIrvEPyRy3wKwMISuBdll9TOd1ITgM (password: datascience1!)
+Part 1 with Yashika Sharma - https://us02web.zoom.us/rec/share/ppZIDbSr1kVOZY3881PtYpEEHdWmX6a8gyZIrvEPyRy3wKwMISuBdll9TOd1ITgM
+
+Part 2 with Erum Afzal - https://us02web.zoom.us/rec/share/1cVoD7bt-39JRpXLtgbAQq17Wb37aaa8gSYdr_YIyh7QY4g2xHi1rXmHNKyvF2vK
+
+Part 3 with Anju Mercian - https://us02web.zoom.us/rec/share/15RSBrfJ2XhJGKfMzWH_RrYuMdndaaa8gHQY_qJZnUtuzDTvWceglMDSOhR28s-0
